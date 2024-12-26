@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAn\\PlatformGameBanSung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\kichhoathopvatphambay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\kichhoathopvatphambay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|d:\\doan\\platformgamebansung\\assets\\script\\dieukhiennhanvat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dieukhiennhanvat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\hieuungnhanvatdie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hieuungnhanvatdie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\hieuungtieudiet_kd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hieuungtieudiet_kd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\losemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\losemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\dieukhiencamung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dieukhiencamung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\winmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\winmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\duongdanboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\duongdanboss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\duongdankd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\duongdankd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\dieukhiencamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dieukhiencamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\quanly_kd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\quanly_kd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\duongdanchum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\duongdanchum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\xulyhuongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\xulyhuongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\duongdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\duongdan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\hopvatpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hopvatpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\kd_bantia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\kd_bantia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\nangcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\nangcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\thapsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thapsung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|D:\\DoAn\\PlatformGameBanSung\\assets\\script\\thapphao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BEAA477-1E8C-1BBE-0CC6-CF0CD09DC229}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thapphao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WinMenu.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\WinMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WinMenu.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\WinMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\WinMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:47:11.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoseMenu.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\LoseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LoseMenu.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\LoseMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\LoseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:45:40.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Boss.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\Boss.cs",
+              "RelativeToolTip": "Assets\\Script\\Boss.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:19:01.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MainMenu.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:13:02.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DieuKhienCamUng.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DieuKhienCamUng.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DieuKhienCamUng.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DieuKhienCamUng.cs",
+              "RelativeToolTip": "Assets\\Script\\DieuKhienCamUng.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:31:53.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DuongDanChum.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DuongDanChum.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DuongDanChum.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DuongDanChum.cs",
+              "RelativeToolTip": "Assets\\Script\\DuongDanChum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:54:21.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XuLyHuongBan.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\XuLyHuongBan.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\XuLyHuongBan.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\XuLyHuongBan.cs",
+              "RelativeToolTip": "Assets\\Script\\XuLyHuongBan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:23:55.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HopVatPham.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\HopVatPham.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HopVatPham.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\HopVatPham.cs",
+              "RelativeToolTip": "Assets\\Script\\HopVatPham.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:23:43.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KD_BanTia.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\KD_BanTia.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\KD_BanTia.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\KD_BanTia.cs",
+              "RelativeToolTip": "Assets\\Script\\KD_BanTia.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:20:30.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DieuKhienCamera.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DieuKhienCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DieuKhienCamera.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DieuKhienCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\DieuKhienCamera.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:14:41.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HieuUngTieuDiet_KD.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\HieuUngTieuDiet_KD.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HieuUngTieuDiet_KD.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\HieuUngTieuDiet_KD.cs",
+              "RelativeToolTip": "Assets\\Script\\HieuUngTieuDiet_KD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:10:38.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DuongDan.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DuongDan.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DuongDan.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DuongDan.cs",
+              "RelativeToolTip": "Assets\\Script\\DuongDan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:06:46.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DuongDanKD.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DuongDanKD.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DuongDanKD.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DuongDanKD.cs",
+              "RelativeToolTip": "Assets\\Script\\DuongDanKD.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:06:28.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HieuUngNhanVatDie.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\HieuUngNhanVatDie.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HieuUngNhanVatDie.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\HieuUngNhanVatDie.cs",
+              "RelativeToolTip": "Assets\\Script\\HieuUngNhanVatDie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:50:10.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DieuKhienNhanVat.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DieuKhienNhanVat.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DieuKhienNhanVat.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DieuKhienNhanVat.cs",
+              "RelativeToolTip": "Assets\\Script\\DieuKhienNhanVat.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswJwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:33:45.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QuanLy_KD.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\QuanLy_KD.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\QuanLy_KD.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\QuanLy_KD.cs",
+              "RelativeToolTip": "Assets\\Script\\QuanLy_KD.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:49:05.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DuongDanBoss.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DuongDanBoss.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DuongDanBoss.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\DuongDanBoss.cs",
+              "RelativeToolTip": "Assets\\Script\\DuongDanBoss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:58:48.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThapSung.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\ThapSung.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ThapSung.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\ThapSung.cs",
+              "RelativeToolTip": "Assets\\Script\\ThapSung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:15:08.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ThapPhao.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\ThapPhao.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ThapPhao.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\ThapPhao.cs",
+              "RelativeToolTip": "Assets\\Script\\ThapPhao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:03:20.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KichHoatHopVatPhamBay.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\KichHoatHopVatPhamBay.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\KichHoatHopVatPhamBay.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\KichHoatHopVatPhamBay.cs",
+              "RelativeToolTip": "Assets\\Script\\KichHoatHopVatPhamBay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:54:14.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NangCap.cs",
+              "DocumentMoniker": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\NangCap.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NangCap.cs",
+              "ToolTip": "D:\\DoAn\\PlatformGameBanSung\\Assets\\Script\\NangCap.cs",
+              "RelativeToolTip": "Assets\\Script\\NangCap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:03:52.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
